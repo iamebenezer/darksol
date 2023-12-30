@@ -3483,7 +3483,7 @@ blockquote {
 }
 
 .btn.is--red {
-    background-color: #f25202
+    background-color: purple
 }
 
 .btn.is--red:hover {
@@ -3491,7 +3491,7 @@ blockquote {
 }
 
 .btn.is-form {
-    background-color: #f25202
+    background-color: purple
 }
 
 .btn.is-form:hover {
